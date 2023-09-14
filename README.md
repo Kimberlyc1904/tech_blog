@@ -1,6 +1,8 @@
 # tech_blog
 MVC Tech Blog
 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ## Description
 
 - What was your motivation? My motivation behind building an app like Tech-Blog stems from various reasons. Such as: Offering a convenient and accessible platform for blogging. Providing a means to capture and preserve meaningful blog. 
