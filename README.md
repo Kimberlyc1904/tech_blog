@@ -1,9 +1,6 @@
 # tech_blog
 MVC Tech Blog
 
-
-https://camo.githubusercontent.com/989317bcbebdcab452e67c1de9e1cb64a48cf3124a6c596ab05d3158c45bc63a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465
-
 ## Description
 
 - What was your motivation? My motivation behind building an app like Tech-Blog stems from various reasons. Such as: Offering a convenient and accessible platform for blogging. Providing a means to capture and preserve meaningful blog. 
